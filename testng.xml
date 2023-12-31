@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="testng2.xsd"?>
+<suite name="BIMAVAHAK">
+	<test>
+		<classes>
+			<class name="zopperTestNGtestrunnere"></class>
+		</classes>
+	</test>
+	
+	
+</suite>
